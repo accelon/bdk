@@ -1,0 +1,22 @@
+{
+    "name": "bdk",
+    "short_name": "bdk",
+    "description": "",
+    "icons": [
+        {
+            "src": "bdk.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "bdk512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "orientation": "any"
+}
